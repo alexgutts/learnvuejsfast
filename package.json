@@ -1,0 +1,31 @@
+{
+  "name": "learnvuein4seconds",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/js": "^7.4.47",
+    "@vee-validate/rules": "^4.11.8",
+    "@vueuse/core": "^10.5.0",
+    "@vueuse/motion": "^2.0.0",
+    "mdi-vue": "^3.0.13",
+    "openai": "^5.8.2",
+    "pinia": "^2.1.7",
+    "vee-validate": "^4.11.8",
+    "vue": "^3.5.17",
+    "vue-router": "^4.2.5",
+    "vuetify": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.0",
+    "sass": "^1.69.5",
+    "vite": "^7.0.0",
+    "vite-plugin-vue-devtools": "^7.7.7",
+    "vite-plugin-vuetify": "^2.0.1"
+  }
+}
